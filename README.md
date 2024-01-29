@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**haider-22/haider-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi everyone 👋
 
 Here are some ideas to get you started:
 ## Backend developer from Iraq (Mesopotamia)
@@ -10,4 +7,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I like walking, watching movies, fishing 😂
+
+<!--
+**haider-22/haider-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
