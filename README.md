@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 ## Backend developer from Iraq (Mesopotamia)
-- 🔭 I’m currently working in [https://iraquna.org/en](Iraquna)
+- 🔭 I’m currently working in (https://iraquna.org/en)[Iraquna]
 - 🌱 I’m currently doing more
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
